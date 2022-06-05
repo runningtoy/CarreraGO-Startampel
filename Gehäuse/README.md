@@ -1,2 +1,2 @@
-#Gehäuse für die Startampel 
+# Gehäuse für die Startampel 
 Hier gibt es mehrere Möglichkeiten. In dem Video zu diesem Projekt habe ich das Gehäuse am Computer entworfen und an meinem Creality Ender 3 in PLA ausgedruckt. Die entsprechenden .stl-Dateien für euren Slicer, sowie die originalen SolidWorks CAD-Files findet ihr in diesem Ordner. Solltet ihr ein Gehäuse entwerfen wollen, findet ihr auch eine Vorlage für die Abstände der einzelnen LEDs. Diese eignet sich auch gut zum ausrichten der LEDs beim verlöten (siehe Video).  
