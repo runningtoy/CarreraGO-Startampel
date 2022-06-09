@@ -27,6 +27,7 @@ Neben den aufgelisteten Materialen ist eigentlich nur ein Lötkolben, Lötzinn s
 Die Hardware ist eigentlich ziemlich überschaubar: Die Startampel soll zwei Reihen mit je 5 Led-Lichtern haben. Die LEDs der unteren Reihe sollen einzeln ansteuerbar sein und sowohl grün als auch rot aufleuchten können. Die obere Reihe muss nur grün leuchten. Wer zu wenig RGB-LEDs zur Hand hat oder sich diese für Projekte aufheben möchte, bei denen diese auch tatsächlich in vollem Umfang genutzt werden, kann also bei der oberen Reihe auch normale grüne LEDs verwenden.
 
 Die Verschaltung der 5 Spalten ist identisch und funktioniert wie folgt: Die gemeinsame Anode der unteren RGB-LED wird mit der 5V-Versorgungsspannung des Arduinos verbunden. Die "rote Kathode" der RGB-LED wird über einen Vorwiderstand (180Ω) mit einem digitalen Ausgang des Nanos verbunden. Hinter die "grüne Kathode" wird die obere LED in Reihe geschaltet (entweder nur der grüne Teil einer RGB-LED oder eine normale grüne LED). Auch hier wird nach einem Vorwiderstand, diesmal 33Ω, ein digitaler Ausgang des Arduinos verbunden. 
+![SchaltungSpalte](https://i.imgur.com/lTyccsa.png))
 
 Um alles möglichst kompakt zu gestalten, habe ich die Verkabelung auf zwei xxXxxmm Lochrasterplatinen verteilt, welche mit Stift- und Buchsenleisten zusammengesteckt werden. Den Buzzer habe ich nicht auf der Platine verlötet, sondern im Gehäuse montiert. Auch er wird 
 
