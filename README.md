@@ -29,7 +29,7 @@ Die Hardware ist eigentlich ziemlich überschaubar: Die Startampel soll zwei Rei
 Die Verschaltung der 5 Spalten ist identisch und funktioniert wie folgt: Die gemeinsame Anode der unteren RGB-LED wird mit der 5V-Versorgungsspannung des Arduinos verbunden. Die "rote Kathode" der RGB-LED wird über einen Vorwiderstand (180Ω) mit einem digitalen Ausgang des Nanos verbunden. Hinter die "grüne Kathode" wird die obere LED in Reihe geschaltet (entweder nur der grüne Teil einer RGB-LED oder eine normale grüne LED). Auch hier wird nach einem Vorwiderstand, diesmal 33Ω, ein digitaler Ausgang des Arduinos verbunden. 
 ![SchaltungSpalte](https://i.imgur.com/lTyccsa.png))
 
-Um alles möglichst kompakt zu gestalten, habe ich die Verkabelung auf zwei xxXxxmm Lochrasterplatinen verteilt, welche mit Stift- und Buchsenleisten zusammengesteckt werden. Den Buzzer habe ich nicht auf der Platine verlötet, sondern im Gehäuse montiert. Auch er wird 
+Um alles möglichst kompakt zu gestalten, habe ich die Verkabelung auf zwei xxXxxmm Lochrasterplatinen verteilt, welche mit Stift- und Buchsenleisten zusammengesteckt werden. Den Buzzer habe ich nicht auf der Platine verlötet, sondern im Gehäuse montiert. Auch er wird mit einem digitalen Ausgang des Arduinos verbunde.
 
 Eine Sache, die ich in meinem Video nicht gemacht habe, aber im Nachhinein empfehlen würde ist das hinzufügen eines externen Reset-Tasters für den Arduino. Dazu muss nur ein Taster zwischen den Pins RESET und GND des Nanos verbunden werden. Dies erleichtert den Neustart des Mikrocontrollers und damit des Countdowns erheblich. Momentan ist bei meiner Startampel ein Aus- und Wiedereinstecken des USB-Kabels die einzige Möglichkeit einen neuen Countdown zu starten. 
 
