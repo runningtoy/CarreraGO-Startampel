@@ -24,6 +24,7 @@ Neben den aufgelisteten Materialen ist eigentlich nur ein Lötkolben, Lötzinn s
 
 ---
 ## Hardware
+![Schaltplan](Schaltplan/Schematic.png)
 
 ---
 ## Software
