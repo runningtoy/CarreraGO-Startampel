@@ -1,5 +1,6 @@
 # CarreraGO-Startampel
-Dieses Projekt entstand kurz vor Weihnachten 2020, als mein Vater seine alte Carrera-Bahn wiederaufbaute und ich mich dazu entschied, ihm als Weihnachtsgeschenk (innerhalb von nur ca. einem Tag) eine Startampel zu bauen. Das ganze hab ich auch in einem [Video](https://youtu.be/q5Slh3TaYYY) dokumentiert, welches sich allerdings als Anleitung für einen Nachbau vermutlich nur bedingt eignet. Deswegen hier der Versuch einer strukturierteren und ausführlicheren Dokumentation:
+Fork von https://github.com/MoritzFeiler/CarreraGO-Startampel MoritzFeiler
+Angepasste LEDs und nutzung eines digistump/attiny88 und eines Akkus mit einem Charge Discharge Modul, geladen wird über USB-C
 
 1. [Material](#material)
 2. [Hardware](#hardware)
