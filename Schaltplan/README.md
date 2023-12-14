@@ -1,3 +1,3 @@
 # Schaltplan
 Schaltplan für Digistump
-![Schaltplan](Schematic)
+![Schaltplan](Schematic.png)
