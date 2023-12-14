@@ -7,7 +7,6 @@ Angepasste LEDs und nutzung eines digistump/attiny88 und eines Akkus mit einem C
 3. [Software](#software)
 4. [Gehäuse](#gehäuse)
 
-Sollte es weitere Fragen, Anregungen oder Feedback geben bin ich am besten über die [Youtube-Kommentare](https://youtu.be/q5Slh3TaYYY) oder [Twitter](https://twitter.com/FeilerMoritz) zu erreichen. Viel Spaß beim Nachbauen! 
 
 ---
 ## Material:
