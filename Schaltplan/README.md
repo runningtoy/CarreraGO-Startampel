@@ -1,2 +1,3 @@
 # Schaltplan
-Schaltplan für Arduino Nano 
+Schaltplan für Digistump
+![Schaltplan](Schematic)
